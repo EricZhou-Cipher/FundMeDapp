@@ -146,4 +146,4 @@ npm run dev
 
 > 如果你是 macOS 用户+Web3 开发者，我的坑记就是你的强选指南。
 
-若成功复现，请给我 Star：https://github.com/mastershy/FundMeDapp
+若成功复现，请给我 Star：[https://github.com/EricZhou-Cipher/FundMeDapp]
