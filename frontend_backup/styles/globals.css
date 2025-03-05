@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 自定义全局样式 */
+:root {
+    --color-background-light: #ffffff;
+    --color-background-dark: #0a0a0a;
+    --color-foreground-light: #171717;
+    --color-foreground-dark: #ededed;
+}
+
+body {
+    @apply bg-white text-black dark:bg-black dark:text-white;
+}
